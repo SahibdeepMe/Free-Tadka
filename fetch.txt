@@ -31,8 +31,8 @@
     "description": "Dhurandhar is a massive, two-part Indian spy action-thriller duology written and directed by Aditya Dhar, known for his work on Uri: The Surgical Strike. Produced by Jio Studios and B62 Studios, the franchise became a global cinematic phenomenon",
     "priority": 100,
     "thumbnail": "https://m.media-amazon.com/images/I/61p-Nw3tNvL._SY741_.jpg",
-    "trailer": "Dhurandhar_trailer.mp4",
-    "movie": "Dhurandhar.mkv",
+    "trailer": "https://xmoshvhvgcyettfiuryz.supabase.co/storage/v1/object/public/merged-files/9a123a87-92f0-4396-a01c-83f481c44e58/1778990086676_Dhurandhar_trailer.mp4",
+    "movie": "https://cdn.fukggl.buzz/Dhurandhar.2025.1080p.HEVC.Hindi.Uncensored.DS4K.WEB-DL.5.1.ESub.x265-HDHub4u.Ms.mkv?token=641bb2a2e41afd3f1438515dc7bb2d63_151",
     "sortOrder": 1
   },
 {
@@ -43,7 +43,7 @@
   "description": "Dhurandhar: The Revenge (released theatrically on March 19, 2026) is the epic, hyper-violent concluding chapter of director Aditya Dhar’s spy action-thriller duology. Serving as the direct sequel to the 2025 blockbuster, it explores the dark origin story and the ultimate, high-stakes endgame of undercover operative Jaskirat Singh Rangi.",
   "priority": 100,
   "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzdkNjAxNWMtNWY3My00NTI1LTg2YWQtOGI3MDA0NzdhMjEyXkEyXkFqcGc@._V1_.jpg",
-  "trailer": "Dhurandhar2_trailer.mp4",
+  "trailer": "https://xmoshvhvgcyettfiuryz.supabase.co/storage/v1/object/public/merged-files/9a123a87-92f0-4396-a01c-83f481c44e58/1778990567540_Dhurandhar2_trailer.mp4",
   "movie": "https://fsl.gigabytes.icu/Dhurandhar-The.Revenge.2026.1080p.HEVC.Hindi.DS4K.WEB-DL.5.1.ESub.x265-HDHub4u.Ag.mkv?token=641bb2a2e41afd3f1438515dc7bb2d63_150",
   "sortOrder": 1
 },
