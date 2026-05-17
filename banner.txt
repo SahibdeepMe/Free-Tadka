@@ -1,1 +1,1 @@
-Url = ""
+Url = "https://github.com/SahibdeepMe/Free-Tadka/blob/main/banner.jpg?raw=true"
