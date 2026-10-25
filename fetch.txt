@@ -82,5 +82,61 @@
   "trailer": "",
   "movie": "https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8",
   "sortOrder": 2
-}
+},
+{
+    "title": "Saare Jahan Se Accha: The Silent Guardians",
+    "type": "series",
+    "rating": "UA 16+",
+    "category": "Spy | Thriller | Drama",
+    "description": "The series centers around the covert nuclear arms race in South Asia during the volatile 1970s.",
+    "priority": 100,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYMH4PsgStFxidNPTAM1WTz0YxpVq8gQbI3ybpvftmrmwJIeAJgGr9_8i5VXI_HKC2i6aENrRb9NokEkDfNyMoiKmo9s1kN4jyibtgVDvU6w&s=10",
+    "trailer": "https://streamerengine.onrender.com/watch/5",
+    "sortOrder": 2,
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "Episode 1",
+            "thumbnail": "https://occ-0-2590-3647.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUJe8EiqRXubKV83NQCdOEY_jKV5YBLYyA5Cum2uKUTnCOhZnCaR7I9mIs3Fz6PgE4cGlUHQHlyRHLY_5TjRAnhG0P5EOGTainm4HQWrUCG3J09Ys1apqTqQ.webp?r=c88",
+            "description": "Episode 1 of Saare Jahan Se Accha: The Silent Guardians.",
+            "source": "SaareJahanSeAccha/s1_ep1.mp4"
+          },
+          {
+            "episodeNumber": 2,
+            "title": "Episode 2",
+            "thumbnail": "https://occ-0-2590-3647.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSdHoWYA5PbIzHVwAetD-GrpS2Lj_Wm7P1jqlLhhe-klG46kMU7OUZed6hxS7Q7hkzhnXLMRhqaZxaTeUhNQfMFiNZm0SGkXeylsUhv2BPLgpwIe6-l47TSk.webp?r=f63",
+            "description": "Episode 2 of Saare Jahan Se Accha: The Silent Guardians.",
+            "source": "SaareJahanSeAccha/s1_ep2.mp4"
+          },
+          {
+            "episodeNumber": 3,
+            "title": "Episode 3",
+            "thumbnail": "https://occ-0-2590-3647.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABd62zqSaeMU5HVMCG6C9kA8CAUNmvd5u4wxPKkIQQjEslNuJ8r39bfcSSa-vh2xvzUzgNpXEbBEEf_NKzB44uEHPoMydLpknWmEYjQvRxoneZ1UaabNmnAR9.webp?r=1bc",
+            "description": "Episode 3 of Saare Jahan Se Accha: The Silent Guardians.",
+            "source": "SaareJahanSeAccha/s1_ep3.mp4"
+          },
+          {
+            "episodeNumber": 4,
+            "title": "Episode 4",
+            "thumbnail": "https://occ-0-2590-3647.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdd5-A5uRSPB-D1Zkjx1RO7KVg-5QbPUE7fdzCvLOH0b0BhW0luoYDXBL4axpYuQnwCJ24QpPO3R3XaEZkc8d6jRPRYoru7bsG_8bhXhCmDZlwromHCw8JW_.webp?r=4f7",
+            "description": "Episode 4 of Saare Jahan Se Accha: The Silent Guardians.",
+            "source": "SaareJahanSeAccha/s1_ep4.mp4"
+          },
+          {
+            "episodeNumber": 5,
+            "title": "Episode 5",
+            "thumbnail": "https://occ-0-2590-3647.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdJuZhBGf-cGmsF1GITstBMjhpifVWhJ6kJpr_Ur5ELWyKlyM2-T6zKmQOslbbUhlrKTqQ-051Olqprx8TmxCA5UFTcZVTNQQBm2emlDLVZxPGuGbNuXiXS9.webp?r=657",
+            "description": "Episode 5 of Saare Jahan Se Accha: The Silent Guardians.",
+            "source": "SaareJahanSeAccha/s1_ep5.mp4"
+          },
+          {
+            "episodeNumber": 6,
+            "title": "Episode 6",
+            "thumbnail": "https://occ-0-2590-3647.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaA-GxMVsYztE1_YNvX0cVPH46GePlRWRLxeyfxC-2J_cHzv14XXdhdMe9WTGZd0rO5z-4RC-i_KkbAKD_hEHRwSE_3gNmDg8eajqepm0uBxtbO6OQClj4B9.webp?r=3e4",
+            "description": "Episode 6 of Saare Jahan Se Accha: The Silent Guardians.",
+            "source": "SaareJahanSeAccha/s1_ep6.mp4"
+          }
 ]
